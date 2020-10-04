@@ -1,4 +1,4 @@
-# chills-itd  https://christianmiljkovic.github.io/chills-itd/
+# chills-itd 
 
 A nice starting template for animated landing pages
 
